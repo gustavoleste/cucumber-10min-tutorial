@@ -1,0 +1,16 @@
+{
+  "name": "cucumber-10min-tutorial",
+  "version": "1.0.0",
+  "description": "cucumber quick tutorial",
+  "main": "index.js",
+  "repository": "https://github.com/gustavoleste/cucumber-10min-tutorial.git",
+  "author": "Gustavo Leste <gustavoleste@protonmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "cucumber": "^5.1.0"
+  }
+}
